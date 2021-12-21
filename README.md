@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, I'm Mathew</h1>
+<h1 align="center">Welcome to Mathew's GitHub 👋</h1>
 <h3 align="center">A data scientist with a passion for finding meaningful uses for data to better our lives one command line at a time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathewmahoneyds20&label=Profile%20views&color=0e75b6&style=flat" alt="mathewmahoneyds20" /> </p>
